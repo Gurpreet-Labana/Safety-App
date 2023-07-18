@@ -142,3 +142,4 @@ By combining these features, the proposed app has the potential to be a valuable
 ## Acknowledgements
 
 - [Shivam Khajuria](https://github.com/ShiV1112)
+- [Akshit Sharma](https://github.com/akshitkumarsharma)

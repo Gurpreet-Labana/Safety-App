@@ -65,7 +65,7 @@ This program has no pre-requisites
 
 ## Roadmap
 
-<img src="https://github.com/Gurpreet-Labana/Safety-App/blob/main/WhatsApp%20Image%202023-05-20%20at%209.14.17%20AM.jpeg" alt="Logo" width="900" height="700">
+<img src="https://github.com/Gurpreet-Labana/Safety-App/blob/main/WhatsApp%20Image%202023-05-20%20at%209.14.17%20AM.jpeg" alt="Logo" width="900" height="800">
 
 ## Authors
 
